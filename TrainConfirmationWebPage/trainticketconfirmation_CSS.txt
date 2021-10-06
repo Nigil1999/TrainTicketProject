@@ -1,0 +1,27 @@
+body
+{
+  background-color: FFF8DC;
+}
+#table2 td
+{
+  width:100px;
+}
+#table2 th
+{
+  text-align: left;
+}
+#table3 td
+{
+  padding-right: 5px;
+}
+h3
+{
+  color: red;
+}
+fieldset
+{
+ width: 500px;
+ background-color: #FFFAF0;
+ padding-top: 0px;
+ padding-right: 100px;
+}
